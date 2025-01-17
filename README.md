@@ -7,7 +7,9 @@
 
 ### José Antonio Vacas 
 
-[https://bit.ly/RobII25](https://bit.ly/RobII25)
+## [https://bit.ly/RobII25](https://bit.ly/RobII25)
+![](./images/qr-code-roboticaII-25.png)
+
 
 ## Objetivos 
 
