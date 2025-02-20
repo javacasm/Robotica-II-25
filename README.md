@@ -3,12 +3,12 @@
 ## Enero-Febrero 2025
 
 
-![CCbySA](images/CCbySQ_88x31.png) Licencia CC by @javacasm 
+![CCbySA](Robótica%20Granada/Robótica%20II/Robotica%20II-25/images/CCbySQ_88x31.png) Licencia CC by @javacasm 
 
 ### José Antonio Vacas 
 
 ## [https://bit.ly/RobII25](https://bit.ly/RobII25)
-![](./images/qr-code-roboticaII-25.png)
+![](qr-code-roboticaII-25.png)
 
 
 ## Objetivos 
